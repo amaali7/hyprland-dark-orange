@@ -1,0 +1,11 @@
+[theme]
+name = "dark-orange"
+desc = "Dark Orange theme"
+version = "1.0"
+author = "Abdallah Ali"
+git = "https://github.com/amaali7/hyprland-dark-orange"
+config = "theme.conf"
+
+[kill]
+exclude_bar = ["eww"]
+exclude_wallpaper = ["swaybg,mpvpaper"]
